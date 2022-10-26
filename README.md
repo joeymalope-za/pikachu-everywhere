@@ -1,4 +1,4 @@
-# Pikachu Everywhere
+# Say no more
 This is the code for the extension in [this tutorial](https://blog.shahednasser.com/chrome-extension-tutorial-replace-images-in-any-website-with-pikachu/).
 
 # Install the extension
